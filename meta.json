@@ -1,6 +1,7 @@
-{'de.lad1337.demopackage': {'major_verion': 0,
+{'XDM demo': {'de.lad1337.demopackage': {'major_verion': 0,
                             'minor_version': 2,
                             'format': 'zip',
-                             'update_url': 'https://raw.github.com/lad1337/XDM-plugin-de.lad1337.demopackage/master/meta.json',
+                            'update_url': 'https://raw.github.com/lad1337/XDM-plugin-de.lad1337.demopackage/master/meta.json',
                             'download_url: 'https://github.com/lad1337/XDM-plugin-de.lad1337.demopackage/archive/master.zip'}
+    }
 }
