@@ -10,5 +10,14 @@
             "update_url": "https: //raw.github.com/lad1337/XDM-plugin-de.lad1337.demopackage/master/meta.json",
             "download_url": "https: //github.com/lad1337/XDM-plugin-de.lad1337.demopackage/archive/master.zip"
         }
+        "de.lad1337.demopackage": {
+            "major_version": 0,
+            "minor_version": 3,
+            "format": "zip",
+            "desc": "one line of description with more updates !!",
+            "name": "DemoExternalPlugin",
+            "update_url": "https: //raw.github.com/lad1337/XDM-plugin-de.lad1337.demopackage/master/meta.json",
+            "download_url": "https: //github.com/lad1337/XDM-plugin-de.lad1337.demopackage/archive/master.zip"
+        }
     }
 }
